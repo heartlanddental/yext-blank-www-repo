@@ -1,4 +1,4 @@
 dynamicRoutes:
   - from: /*
     to: YEXT_PUBLIC_DOMAIN/:splat
-    status: 302
+    status: 301
